@@ -6,3 +6,25 @@ _
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+a
+1Test_Login_through_the_Personal Account_button.py,c\3\c34e4e3346c6366a995d0fb448262fb1727245b5
+C
+Test_registation.py,4\c\4c5a7ef1096e77c0ebb0386362ca9e7822b8d8c7
+o
+?Test_Switching_from_your_personal_account_to_the_constructor.py,1\0\10e60ade5da3ea3024d9679ae90d89ae661763e8
+p
+@Test_click_on_the_Constructor_and_on_the_Stellar_Burgers_logo.py,0\7\0790e3b8158ec5f8d22e2bb01c9527ef376e578b
+O
+Test_log_out_of_your_account.py,8\d\8dc1bb4307b67b8c38d2470ce5d8f78a037672c8
+i
+9Test_checking_transitions_to_rolls_sauces_and_fillings.py,1\4\14e7b5f725421182753733b4ce8e66fd76421225
+;
+conftest.py,1\e\1e4f0373b798e1c815760b0d5b71eed49df13ea5
+i
+9Test_Login_through_the_button_in_the_registration_form.py,7\4\74724d322cc373a4c2e2e56b34fe2102eccd94d9
+n
+>Test_Login_through_the_button_in_the_password_recovery_form.py,b\a\bacf161a5aefdc7b2dd287faaf2831ebc46032a9
+`
+0Test_transfer_to_your_personal_account_button.py,0\9\097d21bf3a455c768456abc144ade16eac01bc46
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
