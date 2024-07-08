@@ -15,4 +15,14 @@ driver.find_element(By.XPATH, "/html/body/div/div/main/div/form/button").click()
 WebDriverWait(driver, 3).until(expected_conditions.visibility_of_element_located((By.XPATH, "/html/body/div/div/main/section[2]/div/button")))
 assert "Оформить заказ" == driver.find_element(By.XPATH, "/html/body/div/div/main/section[2]/div/button").text
 
+driver.find_element(By.XPATH, "/html/body/div/div/header/nav/a/p").click()
+
+WebDriverWait(driver, 3).until(expected_conditions.visibility_of_element_located((By.XPATH, "/html/body/div/div/main/div/nav/ul/li[1]/a")))
+assert "Профиль" == driver.find_element(By.XPATH, "/html/body/div/div/main/div/nav/ul/li[1]/a").text
+
+driver.find_element(By.XPATH, "/html/body/div/div/main/div/nav/ul/li[3]/button").click()
+
+WebDriverWait(driver, 3).until(expected_conditions.visibility_of_element_located((By.XPATH, "/html/body/div/div/main/div/form/button")))
+assert "Войти" == driver.find_element(By.XPATH, "/html/body/div/div/main/div/form/button").text
+
 driver.quit()
