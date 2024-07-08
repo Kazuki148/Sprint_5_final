@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="ca018eb7-3f8e-4b85-b8a9-bee04df089e2" />
+  </component>
+</module>
